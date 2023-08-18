@@ -2,7 +2,7 @@ import React from "react";
 import "./style.scss";
 
 const HeroBanner = () => {
-  return <div></div>;
+  return <div>HeroBanner</div>;
 };
 
 export default HeroBanner;
